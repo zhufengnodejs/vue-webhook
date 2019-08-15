@@ -27,5 +27,5 @@ function sendMail(message){
         console.log('Message sent: %s', info.messageId);
     });
 }
+
 module.exports = sendMail;
-`
